@@ -16,7 +16,7 @@ import java.util.UUID;
  */
 public class BeaconScannerUtil {
 
-    public static final String BEACON_UUID = "6e64f8d0-c4a6-48d1-9519-ac2a601622b8";
+    public static final String BEACON_UUID = "00000000-0000-0000-0000-000000000000";
     private static final int MANUFACTURE_ID = 0x004c;
 
     /**

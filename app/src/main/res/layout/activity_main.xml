@@ -16,7 +16,9 @@
             android:id="@+id/main_edit_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="6e64f8d0-c4a6-48d1-9519-ac2a601622b8" />
+            android:imeOptions="actionDone"
+            android:singleLine="true"
+            tools:text="00000000-0000-0000-0000-000000000000" />
 
         <Button
             android:id="@+id/main_button_scan"
